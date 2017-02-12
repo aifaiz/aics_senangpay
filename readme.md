@@ -1,4 +1,4 @@
-# Senangpay Prestashop 1.7 Payment Module
+#Senangpay Prestashop 1.7 Payment Module
 
 this repo is still in progress. however you can use it. just change the values of these on aics_senangpay.php
 
@@ -7,4 +7,4 @@ this repo is still in progress. however you can use it. just change the values o
 	$this->secret = '123-123';
 ```
 
-### more updates coming soon.
+###More updates coming soon.
